@@ -62,8 +62,6 @@ export function Practice() {
                   ["Experience", "21 years, operational"],
                   ["Reach", "5 global deployments"],
                   ["Domains", "Performance · Care · Digital"],
-                  ["Structure", "S-Corp · ONeal Aeris"],
-                  ["Sub-brand", "Krav"],
                 ].map(([k, v]) => (
                   <div key={k} className="flex items-center justify-between py-3.5">
                     <dt className="label-mono">{k}</dt>

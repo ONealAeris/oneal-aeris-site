@@ -17,7 +17,7 @@ export function Hero() {
       <div className="shell relative pt-36 pb-24 md:pt-44 md:pb-32">
         {/* telemetry strip */}
         <div className="mb-12 flex flex-wrap items-center gap-x-8 gap-y-2 animate-rise">
-          <span className="eyebrow">ONeal Aeris · Consulting S-Corp</span>
+          <span className="eyebrow">ONeal Aeris · Consulting</span>
           <span className="hidden h-3 w-px bg-line-strong md:block" />
           <span className="label-mono">EST · Global Operations</span>
           <span className="hidden h-3 w-px bg-line-strong md:block" />

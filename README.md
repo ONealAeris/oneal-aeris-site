@@ -1,6 +1,6 @@
 # ONeal Aeris — corporate site
 
-A single-page credibility site for **ONeal Aeris**, the consulting S-Corp (Krav is a DBA).
+A single-page credibility site for **ONeal Aeris**, a consulting practice.
 Aerospace / instrumentation aesthetic: deep navy ground, hairline grids, monospaced
 telemetry labels, brass signal accent. Built to convey precision and high-consequence
 experience without literal military / extreme-sports imagery.

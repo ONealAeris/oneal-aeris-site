@@ -39,8 +39,7 @@ export function Footer() {
               <span className="label-mono">Registry</span>
               <ul className="mt-4 space-y-2.5 font-mono text-[12px] tracking-[0.04em] text-muted">
                 <li>ONeal Aeris</li>
-                <li>Consulting S-Corp</li>
-                <li className="text-faint">DBA · Krav</li>
+                <li>Consulting</li>
               </ul>
             </div>
           </div>
