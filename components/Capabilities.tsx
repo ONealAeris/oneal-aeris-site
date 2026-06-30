@@ -4,7 +4,7 @@ const DOMAINS = [
   {
     id: "01",
     title: "Human Performance",
-    lede: "Operating at the limit.",
+    lede: "Operational at the limit.",
     body: "Training systems, coaching frameworks, and readiness models proven where conditions are unforgiving and the body and mind are the equipment.",
     tags: ["Readiness", "Coaching systems", "Risk"],
   },

@@ -79,7 +79,7 @@ export function Hero() {
         {/* baseline readout */}
         <div className="mt-20 grid grid-cols-2 gap-px overflow-hidden rounded-xs border border-line bg-line md:grid-cols-4">
           {[
-            ["21 yrs", "Operating experience"],
+            ["21 yrs", "Operational experience"],
             ["5×", "Global deployments"],
             ["4", "Practice domains"],
             ["0", "Acceptable failure rate"],
