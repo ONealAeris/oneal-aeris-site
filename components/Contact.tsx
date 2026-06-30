@@ -5,7 +5,7 @@ import { Reveal } from "./Reveal";
 
 type Status = "idle" | "sending" | "sent" | "error";
 
-const CONTACT_EMAIL = "hello@onealaeris.com";
+const CONTACT_EMAIL = "contact@onealaeris.com";
 
 export function Contact() {
   const [status, setStatus] = useState<Status>("idle");

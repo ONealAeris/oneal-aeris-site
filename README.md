@@ -28,7 +28,7 @@ Copy `.env.example` → `.env.local` and fill in:
 | Var | Purpose |
 | --- | --- |
 | `RESEND_API_KEY` | Resend API key. **If unset, the form still "succeeds" and logs to the server console** — so you can demo without it. |
-| `CONTACT_TO` | Where inquiries are delivered (default `hello@onealaeris.com`). |
+| `CONTACT_TO` | Where inquiries are delivered (default `contact@onealaeris.com`, forwarded to Preston). |
 | `CONTACT_FROM` | Verified Resend sender, e.g. `ONeal Aeris <no-reply@onealaeris.com>`. |
 
 ### Resend setup (when ready)

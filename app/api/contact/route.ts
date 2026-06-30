@@ -38,7 +38,7 @@ export async function POST(req: Request) {
   }
 
   const apiKey = process.env.RESEND_API_KEY;
-  const to = process.env.CONTACT_TO || "hello@onealaeris.com";
+  const to = process.env.CONTACT_TO || "contact@onealaeris.com";
   const from = process.env.CONTACT_FROM || "ONeal Aeris <no-reply@onealaeris.com>";
 
   // If Resend isn't configured yet, accept gracefully so the UI works in preview.
